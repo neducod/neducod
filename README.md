@@ -1,8 +1,8 @@
 
-- 👋 Hi, I’m @neducod
-- 👀 I’m interested in anything that says code
-- 🌱 I’m currently learning frontend developing 
-- 💞️ I’m looking to collaborate with liked minded individuals
+- Josephine Jerome
+- Frontend Developer
+- HTML5 | CSS3 | JAVASCRIPT | TAILWIND CSS | ES6 + | GSAP
+- Most of my repositories are incomplete because I am always learning 
 - 📫 How to reach me @nedunony16@gmail.com
 
 <!---
