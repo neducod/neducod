@@ -1,8 +1,7 @@
-
 - Josephine Jerome
 - Frontend Developer
-- HTML5 | CSS3 | JAVASCRIPT | TAILWIND CSS | GSAP | FIREBASE
-- Most of my repositories are incomplete because I am always learning 
+- The journey of becoming a cracked dev starts with a single line of code
+      -Josephine ✨
 - 📫 How to reach me @nedunony16@gmail.com
 
 <!---
