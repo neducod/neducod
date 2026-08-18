@@ -12,7 +12,9 @@ I build modern web applications where **design, performance, functionality, and 
 
 I turn ideas into polished digital products — from responsive interfaces and interactive experiences to API-powered applications and full-stack projects. I care about the details users notice, the architecture developers maintain, and the results a product delivers.
 
+
 **I build products that are made to be used, not just projects that are made to be shown.**
+
 
 ---
 
@@ -30,9 +32,11 @@ I approach development as problem-solving: understanding what needs to work, fin
 
 I care about the details that separate a functional interface from a great one — responsive behavior, interactions, accessibility, performance, and a smooth user experience.
 
+
 ---
 
 ## Tech </>
+
 
 **Frontend**
 `React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS`
@@ -45,21 +49,23 @@ I care about the details that separate a functional interface from a great one �
 
 ---
 
+
 ## Selected Work ✨
 
-### TheJStore
+
+### Moodify
 
 An e-commerce experience built around product discovery, responsive interfaces, and a smooth shopping flow.
 
 **React · JavaScript · CSS**
 
-### Recipe Tracker
+### Party Card
 
 A cloud-powered application for creating, managing, and organizing recipes, with Firebase handling the application data layer.
 
 **React · Firebase · JavaScript**
 
-### Image Search
+### Optometry Clinic Website
 
 An API-powered search experience designed to make discovering and browsing images simple and intuitive.
 
