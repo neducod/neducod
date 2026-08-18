@@ -86,7 +86,7 @@ If you're building something interesting and need someone who is curious, adapta
 
 📫 **Portfolio:** [Your Portfolio](YOUR_PORTFOLIO_LINK)
 💼 **LinkedIn:** [Your LinkedIn](YOUR_LINKEDIN_LINK)
-🐦 **X/Twitter:** [nedunony] (https://x.com/nedu_nony)
+🐦 **X/Twitter:** [nedunony](https://x.com/nedu_nony)
 
 ---
 
