@@ -16,7 +16,7 @@ I turn ideas into polished digital products — from responsive interfaces and i
 
 ---
 
-## What I Do
+## What I Do 💻
 
 **01 — Build**
 
@@ -45,7 +45,7 @@ I care about the details that separate a functional interface from a great one �
 
 ---
 
-## Selected Work
+## Selected Work ✨
 
 ### TheJStore
 
@@ -73,7 +73,7 @@ A browser-based application that transforms written content into speech through 
 
 ---
 
-## Beyond the Code
+## Beyond the Code 🧸ྀི
 
 I think about more than whether something works.
 
@@ -83,7 +83,7 @@ That's the mindset I bring to every build.
 
 ---
 
-## Let's Build
+## Let's Build ,🚀
 
 I'm interested in working with people and teams building ambitious products where good engineering and good product thinking matter.
 
