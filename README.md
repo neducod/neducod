@@ -1,22 +1,13 @@
-- Hey I'm Josephine and I like to code
-
 <!---
 neducod/neducod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
-
-Follows you
-I build websites and mobile apps engineered for speed, scalability, and impact
-
-
-
-
-
 # Hi, I'm Josephine Jerome 👋
 
-### Frontend Developer building thoughtful, high-performing digital experiences.
+### Frontend Engineer
+Building thoughtful, high-performing digital experiences.
 
 I’m a developer focused on transforming ideas into responsive, functional, and user-centered web applications. I enjoy solving problems, learning fast, and turning concepts into products that people can actually use.
 
