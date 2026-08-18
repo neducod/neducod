@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 # Hi, I'm Josephine Jerome 👋
 
+
 ### Frontend Engineer
 Building thoughtful, high-performing digital experiences.
-
 ##
 
 I’m a developer focused on transforming ideas into responsive, functional, and user-centered web applications. I enjoy solving problems, learning fast, and turning concepts into products that people can actually use.
