@@ -84,8 +84,8 @@ I'm interested in opportunities where I can contribute to meaningful products, c
 
 If you're building something interesting and need someone who is curious, adaptable, and genuinely enjoys solving problems, **let's connect.**
 
-📫 **Portfolio:** [Your Portfolio](YOUR_PORTFOLIO_LINK)
-💼 **LinkedIn:** [Your LinkedIn](YOUR_LINKEDIN_LINK)
+📫 **Portfolio:** [Your Portfolio](https://josephine-jerome-portfolio.vercel.app/)
+💼 **LinkedIn:** [Your LinkedIn](in/chi-nony-28349a428)
 🐦 **X/Twitter:** [nedunony](https://x.com/nedu_nony)
 
 ---
