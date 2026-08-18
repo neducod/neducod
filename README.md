@@ -60,7 +60,7 @@ I care about the details that separate a functional interface from a great one �
 
 Moodify is an interactive web application that curated CSS gradients based on mood and ambient presets.
 
-**React library · JavaScript · TailwindCSS · TypeScript · Next.js **
+**React library · JavaScript · TailwindCSS · TypeScript · Next.js**
 
 ### Party Card
 
