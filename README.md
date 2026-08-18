@@ -20,6 +20,7 @@ I turn ideas into polished digital products — from responsive interfaces and i
 
 ## What I Do 💻
 
+
 **01 — Build**
 
 I take products from idea to implementation, translating requirements and designs into responsive, functional web experiences.
@@ -33,7 +34,9 @@ I approach development as problem-solving: understanding what needs to work, fin
 I care about the details that separate a functional interface from a great one — responsive behavior, interactions, accessibility, performance, and a smooth user experience.
 
 
+
 ---
+
 
 ## Tech </>
 
@@ -55,27 +58,24 @@ I care about the details that separate a functional interface from a great one �
 
 ### Moodify
 
-An e-commerce experience built around product discovery, responsive interfaces, and a smooth shopping flow.
+Moodify is an interactive web application that curated CSS gradients based on mood and ambient presets.
 
-**React · JavaScript · CSS**
+**React library · JavaScript · TailwindCSS · TypeScript · Next.js **
 
 ### Party Card
 
-A cloud-powered application for creating, managing, and organizing recipes, with Firebase handling the application data layer.
+A reactive client-side card builder engineered with Next.js, TypeScript, and Tailwind CSS, features text editing and custom cards with exporting via web shared API
+
 
 **React · Firebase · JavaScript**
 
 ### Optometry Clinic Website
 
-An API-powered search experience designed to make discovering and browsing images simple and intuitive.
+Built a dynamic 4-page clinic site featuring smooth GSAP animations, seamless appointment scheduling, and a WhatsApp API integration to drive fast conversion and instant inquiry handling
 
-**JavaScript · REST API · HTML · CSS**
 
-### Text-to-Speech
+**JavaScript · WhatsApp API · React · TailwindCSS  · Gsap Motion**
 
-A browser-based application that transforms written content into speech through the Web Speech API.
-
-**JavaScript · Web APIs · HTML · CSS**
 
 ---
 
