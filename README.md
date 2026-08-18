@@ -67,7 +67,7 @@ Moodify is an interactive web application that curated CSS gradients based on mo
 A reactive client-side card builder engineered with Next.js, TypeScript, and Tailwind CSS, features text editing and custom cards with exporting via web shared API
 
 
-**React · Firebase · JavaScript**
+**React · Typescript · Next.js  · HTML-Image**
 
 ### Optometry Clinic Website
 
