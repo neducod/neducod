@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
  
-# Josephine Jerome
+# Josephine Jerome ⋆⭒˚.⋆
 
 ### Frontend Developer · React · Next.js · TypeScript
 
@@ -32,7 +32,7 @@ I care about the details that separate a functional interface from a great one �
 
 ---
 
-## Tech
+## Tech </>
 
 **Frontend**
 `React` · `Next.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS`
