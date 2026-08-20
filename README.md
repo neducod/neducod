@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 I build modern web applications where **design, performance, functionality, and user experience come together**.
 
-I turn ideas into polished digital products — from responsive interfaces and interactive experiences to API-powered applications and full-stack projects. I care about the details users notice, the architecture developers maintain, and the results a product delivers.
+I turn ideas into polished digital products; from responsive interfaces and interactive experiences to API-powered applications and full-stack projects. I care about the details users notice, the architecture developers maintain, and the results a product delivers.
 
 
-**I build products that are made to be used, not just projects that are made to be shown.**
+<!--**I build products that are made to be used, not just projects that are made to be shown.**-->
 
 
 ---
@@ -31,7 +31,7 @@ I approach development as problem-solving: understanding what needs to work, fin
 
 **03 — Refine**
 
-I care about the details that separate a functional interface from a great one — responsive behavior, interactions, accessibility, performance, and a smooth user experience.
+I care about the details that separate a functional interface from a great one; responsive behavior, interactions, accessibility, performance, and a smooth user experience.
 
 
 
