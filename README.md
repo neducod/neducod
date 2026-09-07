@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
  
 # Josephine Jerome ⋆⭒˚.⋆
 
-### Software Developer · React · Next.js · TypeScript
+### Website Developer · React · Next.js · TypeScript
 
 I build modern web applications where **design, performance, functionality, and user experience come together**.
 
