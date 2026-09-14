@@ -53,7 +53,7 @@ I care about the details that separate a functional interface from a great one; 
 ---
 
 
-## Selected Work ✨
+## Recent Projects ✨
 
 
 ### Moodify
